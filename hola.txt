@@ -1,2 +1,0 @@
-Prueba para hacer un pull
-Al agregar un texto, a un archivo ya editado y subido se produce un conflicto de merge
