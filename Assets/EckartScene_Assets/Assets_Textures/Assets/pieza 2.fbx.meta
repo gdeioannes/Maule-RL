@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: 8964aad2f010512428de7e72c39da963
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: cama
+    100002: estante1
+    100004: group1
+    100006: Muro_frontal1
+    100008: Muro_Izquierda
+    100010: muro_trasero
+    100012: pCylinder6
+    100014: //RootNode
+    100016: Piso
+    100018: polySurface18
+    100020: polySurface22
+    100022: velador1
+    100024: ventana2
+    100026: ventana_1
+    400000: cama
+    400002: estante1
+    400004: group1
+    400006: Muro_frontal1
+    400008: Muro_Izquierda
+    400010: muro_trasero
+    400012: pCylinder6
+    400014: //RootNode
+    400016: Piso
+    400018: polySurface18
+    400020: polySurface22
+    400022: velador1
+    400024: ventana2
+    400026: ventana_1
+    2100000: estante
+    2100002: velador
+    2100004: camaa
+    2100006: garza
+    2100008: cesto
+    2100010: piso1
+    2100012: Muro_derecha
+    2100014: Muro_frontal
+    2100016: ventanas
+    2100018: muro_izquierdo
+    2100020: Muro_trasero
+    2300000: cama
+    2300002: estante1
+    2300004: Muro_frontal1
+    2300006: Muro_Izquierda
+    2300008: muro_trasero
+    2300010: pCylinder6
+    2300012: Piso
+    2300014: polySurface18
+    2300016: polySurface22
+    2300018: velador1
+    2300020: ventana2
+    2300022: ventana_1
+    3300000: cama
+    3300002: estante1
+    3300004: Muro_frontal1
+    3300006: Muro_Izquierda
+    3300008: muro_trasero
+    3300010: pCylinder6
+    3300012: Piso
+    3300014: polySurface18
+    3300016: polySurface22
+    3300018: velador1
+    3300020: ventana2
+    3300022: ventana_1
+    4300000: estante1
+    4300002: velador1
+    4300004: cama
+    4300006: polySurface22
+    4300008: pCylinder6
+    4300010: Piso
+    4300012: polySurface18
+    4300014: Muro_frontal1
+    4300016: ventana2
+    4300018: ventana_1
+    4300020: Muro_Izquierda
+    4300022: muro_trasero
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Muro_derecha
+    second: {fileID: 2100000, guid: 01e54c1f9acf82047998e09c88c06068, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Muro_frontal
+    second: {fileID: 2100000, guid: 67c195f0b36b358438dc17d32fab9c03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Muro_trasero
+    second: {fileID: 2100000, guid: e2efca38cf0b0bc48ae3d4e8a3eab4dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: camaa
+    second: {fileID: 2100000, guid: a9e519e33343d9f4b98131760b7fd334, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cesto
+    second: {fileID: 2100000, guid: 87d9e2b9b37ad3040b8693e1fe0df434, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: estante
+    second: {fileID: 2100000, guid: aa36742206bc3494287e7df0cdd05419, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: garza
+    second: {fileID: 2100000, guid: ff7535e859e5b2647b98da3778217d6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: muro_izquierdo
+    second: {fileID: 2100000, guid: cabbc80f9fa1a2b48ac2cfa45bc3b7f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: piso1
+    second: {fileID: 2100000, guid: 0f248fd12435eae44ab30fd4fba50b21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: velador
+    second: {fileID: 2100000, guid: de773febc2ee6b8488057c666b7ff495, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ventanas
+    second: {fileID: 2100000, guid: 4844eae613352c84781bc5d3d9fdfbaf, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
