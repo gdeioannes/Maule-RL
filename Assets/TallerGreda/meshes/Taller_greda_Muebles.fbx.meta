@@ -1,40 +1,22 @@
 fileFormatVersion: 2
-guid: f01ad6046c7eeed4aa6e837a600fac9f
+guid: 958c481fbdf79824dbc4a904194f4d0e
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
-    100000: andamios
-    100002: escaleras
-    100004: estructura_taller
-    100006: polySurface21
-    100008: polySurface22
-    100010: //RootNode
-    400000: andamios
-    400002: escaleras
-    400004: estructura_taller
-    400006: polySurface21
-    400008: polySurface22
-    400010: //RootNode
-    2100000: escalera
-    2100002: Interior_taller
-    2100004: Piso
-    2100006: cuerpo_taller
-    2100008: objetos_importantes
-    2300000: andamios
-    2300002: escaleras
-    2300004: estructura_taller
-    2300006: polySurface21
-    2300008: polySurface22
-    3300000: andamios
-    3300002: escaleras
-    3300004: estructura_taller
-    3300006: polySurface21
-    3300008: polySurface22
-    4300000: andamios
-    4300002: escaleras
-    4300004: estructura_taller
-    4300006: polySurface22
-    4300008: polySurface21
+    100000: horno1
+    100002: huevito
+    100004: //RootNode
+    400000: horno1
+    400002: huevito
+    400004: //RootNode
+    2100000: objetos_importantes
+    2100002: muebles
+    2300000: horno1
+    2300002: huevito
+    3300000: horno1
+    3300002: huevito
+    4300000: huevito
+    4300002: horno1
   externalObjects: {}
   materials:
     importMaterials: 1
