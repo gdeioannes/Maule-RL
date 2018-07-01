@@ -1,85 +1,21 @@
 fileFormatVersion: 2
-guid: deecd2f791c4cdc4aaffcb44b49e501a
+guid: 9277f775b95712b43bca2432044aa46c
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
-    100000: arbol12
-    100002: casa10
-    100004: casa7
-    100006: casa8
-    100008: casa9
-    100010: lago1
-    100012: pileta1
-    100014: polySurface19
-    100016: //RootNode
-    100018: taller1
-    100020: taller2
-    100022: taller3
-    100024: taller4
-    100026: terreno
-    400000: arbol12
-    400002: casa10
-    400004: casa7
-    400006: casa8
-    400008: casa9
-    400010: lago1
-    400012: pileta1
-    400014: polySurface19
-    400016: //RootNode
-    400018: taller1
-    400020: taller2
-    400022: taller3
-    400024: taller4
-    400026: terreno
-    2100000: pasto
-    2100002: lago
-    2100004: pileta
-    2100006: lambert6
-    2100008: Troncos
-    2100010: Arbustos
-    2100012: casa1
-    2100014: casa3
-    2100016: casa2
-    2100018: puente
-    2300000: arbol12
-    2300002: casa10
-    2300004: casa7
-    2300006: casa8
-    2300008: casa9
-    2300010: lago1
-    2300012: pileta1
-    2300014: polySurface19
-    2300016: taller1
-    2300018: taller2
-    2300020: taller3
-    2300022: taller4
-    2300024: terreno
-    3300000: arbol12
-    3300002: casa10
-    3300004: casa7
-    3300006: casa8
-    3300008: casa9
-    3300010: lago1
-    3300012: pileta1
-    3300014: polySurface19
-    3300016: taller1
-    3300018: taller2
-    3300020: taller3
-    3300022: taller4
-    3300024: terreno
-    4300000: terreno
-    4300002: lago1
-    4300004: pileta1
-    4300006: taller3
-    4300008: taller2
-    4300010: taller1
-    4300012: taller4
-    4300014: arbol12
-    4300016: casa7
-    4300018: casa8
-    4300020: casa9
-    4300022: casa10
-    4300024: polySurface19
+    100000: //RootNode
+    100002: pCylinder1
+    100004: polySurface20
+    400000: //RootNode
+    400002: pCylinder1
+    400004: polySurface20
+    2100000: lambert1
+    2300000: pCylinder1
+    2300002: polySurface20
+    3300000: pCylinder1
+    3300002: polySurface20
+    4300000: pCylinder1
+    4300002: polySurface20
   externalObjects: {}
   materials:
     importMaterials: 1
