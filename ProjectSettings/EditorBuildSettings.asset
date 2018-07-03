@@ -6,12 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/TallerDeGreda.unity
-    guid: 5b2719e7fcae2aa42a93f11ad187f1cb
+    path: Assets/Scenes/MainUI.unity
+    guid: b0f5b94693a85425ebc511964373fd21
   - enabled: 1
     path: Assets/Scenes/PiezaPedro.unity
     guid: 2f9db168e7d98434abc6be4c5924c099
   - enabled: 1
     path: Assets/Scenes/Pueblo.unity
     guid: 07456eae2c8782e4fad144858a3cdbcf
+  - enabled: 1
+    path: Assets/Scenes/TallerDeGreda.unity
+    guid: 5b2719e7fcae2aa42a93f11ad187f1cb
   m_configObjects: {}
