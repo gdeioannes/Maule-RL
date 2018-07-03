@@ -49,6 +49,7 @@ public class ControlSetting : MonoBehaviour {
         GameObject spawn= GameObject.Find("SpawnPlayer");
         GameObject player = Instantiate(control);
         player.transform.position = spawn.transform.position;
+        player.transform.rotation= spawn.transform.rotation;
     }
 
     // Call via `StartCoroutine(SwitchToVR())` from your code. Or, use

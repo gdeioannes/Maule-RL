@@ -1247,7 +1247,6 @@ GameObject:
   - component: {fileID: 1627420355}
   - component: {fileID: 1627420354}
   - component: {fileID: 1627420356}
-  - component: {fileID: 1627420357}
   m_Layer: 5
   m_Name: BrokenPaperRigth
   m_TagString: Untagged
@@ -1324,19 +1323,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &1627420357
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1627420352}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 11cee866e2c2d495296e90dc2cdd4d8a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  rigth: {fileID: 0}
-  left: {fileID: 0}
 --- !u!1 &1834416435
 GameObject:
   m_ObjectHideFlags: 0

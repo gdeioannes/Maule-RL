@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class MoveToPoint : MonoBehaviour {
 
+    public float timeToMove=-1;
+
 	// Use this for initialization
 	void Start () {
 		
@@ -15,6 +17,6 @@ public class MoveToPoint : MonoBehaviour {
 	}
 
 	public void moveToPoint(){
-        AnimateCamera.instance.startCameraMovement(gameObject);
+        AnimateCamera.instance.startCameraMovement(gameObject,timeToMove);
 	}
 }
