@@ -5,6 +5,7 @@ using UnityEngine;
 public class MoveToPoint : MonoBehaviour {
 
     public float timeToMove=-1;
+    public GameObject path;
 
 	// Use this for initialization
 	void Start () {
@@ -17,6 +18,10 @@ public class MoveToPoint : MonoBehaviour {
 	}
 
 	public void moveToPoint(){
-        AnimateCamera.instance.startCameraMovement(gameObject,timeToMove);
+        if(path==null){
+            AnimateCamera.instance.startCameraMovement(gameObject,timeToMove);
+        }else{
+            AnimateCamera.instance.startCameraMovementPath(gameObject, timeToMove,path);
+        }
 	}
 }
