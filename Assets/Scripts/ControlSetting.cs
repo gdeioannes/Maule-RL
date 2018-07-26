@@ -43,6 +43,11 @@ public class ControlSetting : MonoBehaviour {
 
     }
 
+    public void goToVideo()
+    {
+        Application.OpenURL("https://vimeo.com/281734759");
+    }
+
     private void OnLevelWasLoaded(int level)
     {
         Debug.Log("Change Level");
