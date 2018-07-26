@@ -15,7 +15,7 @@ public class ControlSetting : MonoBehaviour {
     // Use this for initialization
     void Awake()
     {
-        DontDestroyOnLoad(this.gameObject);
+        Cursor.visible = false;
     }
 	
 	// Update is called once per frame
@@ -25,6 +25,7 @@ public class ControlSetting : MonoBehaviour {
 
     public void changeScene(string controlName){
         StartCoroutine( ChangeScene.instance.goToScene("PiezaPedro"));
+        SoundManager.instance.playClipMusic(2);
         switch(controlName){
             case "VR":
             control = Gvr;

@@ -25,10 +25,10 @@ public class AnimateCamera : MonoBehaviour {
 
     public void startCameraMovement(GameObject obj,float time){
         if(point!=null){
-            point.GetComponent<BoxCollider>().enabled = true;
+            point.SetActive(true);
         }
         point = obj;
-        point.GetComponent<BoxCollider>().enabled = false;
+        point.SetActive(false);
         timeToMove = time;
         //player.transform.position = obj.transform.position;
         Debug.Log("Move Point");
