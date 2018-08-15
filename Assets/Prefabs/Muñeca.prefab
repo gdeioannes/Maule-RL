@@ -22,7 +22,7 @@ GameObject:
   - component: {fileID: 33453892816437244}
   - component: {fileID: 23798725369715920}
   m_Layer: 0
-  m_Name: "Mun\u0303eca"
+  m_Name: "Mu\xF1eca"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
